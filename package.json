@@ -1,0 +1,9 @@
+{
+	"name": "tokenize-parse",
+	"version": "0.0.1",
+	"dependencies": {
+		"redis": ">0.0.1",
+		"reds": ">=0.0.0",
+		"natural": ">=0.0.1"
+	}
+}
