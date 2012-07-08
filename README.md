@@ -9,7 +9,7 @@ packages. Then run
 
 	node dict_to_db.js
 
-to fill the database. (client currently doesn't close the connection so do it manually after a few seconds. sorry).
+to fill the database.
 To test sentences, you can change the "query" string in test.js, then run 
 
 	node test.js
