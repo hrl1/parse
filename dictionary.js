@@ -27,8 +27,7 @@ dictionary.prototype.words = function(callback) {
 			client.end();
 		}
 
-		console.log(result);
-
+		//console.log(result);
 		if (result.length === 0) {
 			console.log("DB is empty.");
 			client.end();

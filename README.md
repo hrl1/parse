@@ -1,7 +1,7 @@
 parsing
 =====
 
-First change config.json to whatever options you prefer, then and 
+First change config.json to whatever options you prefer, and then
 
 	npm install
 
