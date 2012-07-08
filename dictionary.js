@@ -52,7 +52,7 @@ dictionary.prototype.words = function(callback) {
 
 
 	/***
-	 *	add a word to dictiony, emmited from getWords function
+	 *	add a word to dictionary, emmited from getWords function
 	 ***/
 	client.on('word', function(word, type) {
 		data.push(word)
